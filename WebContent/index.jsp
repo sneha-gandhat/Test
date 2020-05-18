@@ -4,9 +4,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Welcome to Jenkins</title>
 </head>
 <body>
-
+<h1 style="text-align:center;"> Welcome to </h1>
+<center><img src="jenkins.jpe" alt="Jenkins Icon" width="150" height="150"><center/>
+<h2 style="text-align:center;"> Auto Deployment with Jenkins <h2/>
 </body>
 </html>
